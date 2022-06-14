@@ -53,6 +53,7 @@ items:
  - ppy/osu-framework
  - gosu/gosu
  - cerberusxdev/cerberus
+ - flame-engine/flame
 display_name: Game Engines
 created_by: leereilly
 ---
